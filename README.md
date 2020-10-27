@@ -1,7 +1,5 @@
 ## Olá! 👋🌺
-#### Me chamo Thays, sou desenvolvedora web e atualmente curso ciência da computação na UERJ 🎓. 
-#### Descobri que programação era para mim durante o ensino médio 💙, após isso minha curiosidade na área só aumentou! 
-<!--
+#### Me chamo Thays, sou desenvolvedora web e atualmente curso ciência da computação na UERJ 🎓. Iniciei na programação durante ensino médio por meio de jogos digitais ❤️🎮. Atualmente estou me formando como desenvolvedora web no Resilia🍋, um curso intensivo de 6 meses. Aprendi HTML, CSS, JavaScript além de Node.js, Bootstrap, MySQL, Sqlite3 e MongoDB🐣.
 **ThaysMrtns/ThaysMrtns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
