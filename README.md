@@ -1,4 +1,5 @@
 ### Olá! 👋
+## Me chamo Thays, sou desenvolvedora web e atualmente curso ciência da computação na UERJ. 🔭 
 
 <!--
 **ThaysMrtns/ThaysMrtns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
