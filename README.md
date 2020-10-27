@@ -1,6 +1,6 @@
-## Olá! 👋
-#### Me chamo Thays, sou desenvolvedora web e atualmente curso ciência da computação na UERJ. 🌺
-
+## Olá! 👋🌺
+#### Me chamo Thays, sou desenvolvedora web e atualmente curso ciência da computação na UERJ 🎓. 
+#### Descobri que programação era para mim durante o ensino médio 💙, após isso minha curiosidade na área só aumentou! 
 <!--
 **ThaysMrtns/ThaysMrtns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
